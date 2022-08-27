@@ -1,6 +1,6 @@
 Package: enigma2-plugin-settings-gigablue-19e_13e_42e_28e_23e_4e_0w_30w
 Version: 1.0+git66+5d87b2c_r0
-Section: base
+Section: Extension
 Architecture: all
 MD5Sum: 779e57fb1b28a85b2519103ea75a8375
 Size: 136262
@@ -15,7 +15,7 @@ License: Proprietary
 
 Package: enigma2-plugin-settings-morpheus883-13e-16e
 Version: 1.0+git290+aa7cc37_r0
-Section: base
+Section: Setting
 Architecture: all
 MD5Sum: c499a613a50af8a0620c1b2284769892
 Size: 62568
@@ -30,7 +30,7 @@ License: Proprietary
 
 Package: enigma2-plugin-settings-morpheus883-13e-16e-19.2e
 Version: 1.0+git290+aa7cc37_r0
-Section: base
+Section: Skin
 Architecture: all
 MD5Sum: 253abbeb8f56a9c1dd84a4e8b69a3faa
 Size: 94976
@@ -45,7 +45,7 @@ License: Proprietary
 
 Package: enigma2-plugin-settings-henksat-19e-23e
 Version: 1.0+git66+149aa85_r0
-Section: base
+Section: System Plugins
 Architecture: all
 MD5Sum: f0cb4a22381ae36d1375dedb39defbc6
 Size: 36592
@@ -60,7 +60,7 @@ License: Proprietary
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino
 Version: 1.0+git6379+2dc6ce8_r0
-Section: base
+Section: Eldeeb
 Architecture: all
 MD5Sum: f6ff53e7d19864d0fe47a8ae6b9718bd
 Size: 166004
