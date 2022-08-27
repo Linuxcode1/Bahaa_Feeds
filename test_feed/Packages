@@ -1,0 +1,16 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v6.0.0
+Depends: enigma2
+Section: base
+Architecture: all
+Maintainer: AMA-Jamry
+MD5Sum: 81F4477AB12EB37AB546877CE264E8A0
+SHA256sum: CBCB551E4570ECF6777C9A2AE29104D92143D0371FB4A5933B1BD5D7133912D1
+Size: 261678
+Filename: enigma2-plugin-extensions-ajpanel_v6.0.0_all.ipk
+Source: none
+Description: Enigma2 Tools
+OE: enigma2
+HomePage: unknown
+License: none
+Priority: optional
