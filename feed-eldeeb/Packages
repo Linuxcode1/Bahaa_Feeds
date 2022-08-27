@@ -1,0 +1,77 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v6.0.0
+Section: base
+Architecture: all
+MD5Sum: 81F4477AB12EB37AB546877CE264E8A0
+Size: 261678
+Filename: enigma2-plugin-extensions-ajpanel_v6.0.0_all.ipk
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Priority: optional
+Source: none
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w
+Version: 1.0+git216+47eb591_r0
+Section: base
+Architecture: all
+MD5Sum: a40febb07186d4a9b834cc3fde1c7ab0
+Size: 370456
+Filename: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w_1.0+git216+47eb591_r0_all.ipk
+Description: ciefp enigma2 settings 19e.16e.13e.0.8w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e.16e.13e.1.9e.0.8w
+Version: 1.0+git216+47eb591_r0
+Section: base
+Architecture: all
+MD5Sum: a164d4fdf52434d4b50a4591e3f24b0c
+Size: 377492
+Filename: enigma2-plugin-settings-ciefp-19e.16e.13e.1.9e.0.8w_1.0+git216+47eb591_r0_all.ipk
+Description: ciefp enigma2 settings 19e.16e.13e.1.9e.0.8w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e.16e.13e.1.9e.0.8w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e.16e.13e
+Version: 1.0+git216+47eb591_r0
+Section: base
+Architecture: all
+MD5Sum: 9ab97e96adf3041a1b36ab0e7d511aa7
+Size: 345866
+Filename: enigma2-plugin-settings-ciefp-19e.16e.13e_1.0+git216+47eb591_r0_all.ipk
+Description: ciefp enigma2 settings 19e.16e.13e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e.16e.13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e.16e
+Version: 1.0+git216+47eb591_r0
+Section: base
+Architecture: all
+MD5Sum: 7fa6beda6b4277c3f998a3f5f00277ec
+Size: 313678
+Filename: enigma2-plugin-settings-ciefp-19e.16e_1.0+git216+47eb591_r0_all.ipk
+Description: ciefp enigma2 settings 19e.16e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e.16e
+License: Proprietary
+
+
+
+
