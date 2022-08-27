@@ -1,0 +1,48 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v6.0.0
+Section: base
+Architecture: all
+MD5Sum: 81F4477AB12EB37AB546877CE264E8A0
+Size: 261678
+Filename: enigma2-plugin-extensions-ajpanel_v6.0.0_all.ipk
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Priority: optional
+Source: none
+OE: enigma2
+License: none
+
+Package: enigma2-plugin-extensions-ajpanel
+Version: v5.5.0
+Depends: enigma2
+Section: base
+Architecture: all
+Maintainer: AMA-Jamry
+MD5Sum: 4b4a1d97bddf4eda1a4bc532793e7720
+SHA256sum: 248f3cf3bdf94ea17979d9a73ed0edecc4714b0cd9d4f269a8f49de176c74516
+Size: 250184
+Filename: enigma2-plugin-extensions-ajpanel_v5.5.0_all.ipk
+Source: none
+Description: Enigma2 Tools
+OE: enigma2
+HomePage: unknown
+License: none
+Priority: optional
+
+
+Package: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w
+Version: 1.0+git216+47eb591_r0
+Section: base
+Architecture: all
+MD5Sum: a40febb07186d4a9b834cc3fde1c7ab0
+Size: 370456
+Filename: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w_1.0+git216+47eb591_r0_all.ipk
+Description: ciefp enigma2 settings 19e.16e.13e.0.8w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w
+License: Proprietary
+
+
+
