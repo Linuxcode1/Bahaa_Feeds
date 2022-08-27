@@ -1,0 +1,31 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v6.0.0
+Section: extensions
+Architecture: all
+MD5Sum: 81F4477AB12EB37AB546877CE264E8A0
+Size: 261678
+Filename: enigma2-plugin-extensions-ajpanel_v6.0.0_all.ipk
+Description: Bahaa el deeeeeeeeeeeeb
+Maintainer: AMA-Jamry
+Priority: optional
+Source: https://github.com/Linuxcode1/Bahaa_Feeds
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w
+Version: 1.0+git216+47eb591_r0
+Section: base
+Architecture: all
+MD5Sum: a40febb07186d4a9b834cc3fde1c7ab0
+Size: 370456
+Filename: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w_1.0+git216+47eb591_r0_all.ipk
+Description: Bahaa el deeeeeeeeeeeeb
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma21
+OE: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w
+License: Proprietary
+
+
+
